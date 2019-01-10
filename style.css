@@ -26,5 +26,6 @@ body {
 
 .subscribebtn {
   position: relative;
-  top: 33rem;;
+  top: 33rem;
+  left: 30rem;
 }
